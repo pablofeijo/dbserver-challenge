@@ -24,7 +24,7 @@
     "express": "^4.17.0",
     "morgan": "^1.9.1",
     "mqtt": "^2.18.8",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
